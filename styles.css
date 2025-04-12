@@ -65,8 +65,8 @@ body {
     position: relative;
     z-index: 1;
     text-align: center;
-    color: white; /* Ensure text is visible */
-/*    background: rgba(129, 129, 129, 0.5); /* Optional dark overlay */
+    color: rgb(255, 255, 255); /* Ensure text is visible */
+    background: rgba(129, 129, 129, 0.5); /* Optional dark overlay */
     padding: 20px;
     border-radius: 10px;
 }
